@@ -25,7 +25,6 @@ module Spotify
       user-library-read
       user-library-modify
       user-read-private
-      user-read-birthdate
       user-read-email
       user-top-read
       user-read-playback-state
